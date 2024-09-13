@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shirswak das
 - 👀 I’m interested in (coding, mathematics and finance)...
-- 🌱 I’m currently working
+- 🌱 I’m currently working as DATA ANALYST
 - 💞️ I’m looking to collaborate on data science related project .
 - 📫 How to reach me my contact number 7439040179
 - 😄 Pronouns: shriswak
